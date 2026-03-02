@@ -1,0 +1,103 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HomeToHome
+build_property.RootNamespace = HomeToHome
+build_property.ProjectDir = E:\fourth semester\VP\HomeToHome\HomeToHome\HomeToHome\HomeToHome\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\fourth semester\VP\HomeToHome\HomeToHome\HomeToHome\HomeToHome
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/fourth semester/VP/HomeToHome/HomeToHome/HomeToHome/HomeToHome/Components/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/fourth semester/VP/HomeToHome/HomeToHome/HomeToHome/HomeToHome/Components/Pages/AboutUs.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBYm91dFVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/fourth semester/VP/HomeToHome/HomeToHome/HomeToHome/HomeToHome/Components/Pages/ContactUs.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb250YWN0VXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/fourth semester/VP/HomeToHome/HomeToHome/HomeToHome/HomeToHome/Components/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/fourth semester/VP/HomeToHome/HomeToHome/HomeToHome/HomeToHome/Components/Pages/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/fourth semester/VP/HomeToHome/HomeToHome/HomeToHome/HomeToHome/Components/Pages/Feedback.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xGZWVkYmFjay5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/fourth semester/VP/HomeToHome/HomeToHome/HomeToHome/HomeToHome/Components/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/fourth semester/VP/HomeToHome/HomeToHome/HomeToHome/HomeToHome/Components/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/fourth semester/VP/HomeToHome/HomeToHome/HomeToHome/HomeToHome/Components/Pages/OurServices.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xPdXJTZXJ2aWNlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/fourth semester/VP/HomeToHome/HomeToHome/HomeToHome/HomeToHome/Components/Pages/RequestForm.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSZXF1ZXN0Rm9ybS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/fourth semester/VP/HomeToHome/HomeToHome/HomeToHome/HomeToHome/Components/Pages/ReviewRequestPage.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSZXZpZXdSZXF1ZXN0UGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/fourth semester/VP/HomeToHome/HomeToHome/HomeToHome/HomeToHome/Components/Pages/SearchWorkers.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTZWFyY2hXb3JrZXJzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/fourth semester/VP/HomeToHome/HomeToHome/HomeToHome/HomeToHome/Components/Pages/UserHomePage.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xVc2VySG9tZVBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/fourth semester/VP/HomeToHome/HomeToHome/HomeToHome/HomeToHome/Components/Pages/UserRegister.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xVc2VyUmVnaXN0ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/fourth semester/VP/HomeToHome/HomeToHome/HomeToHome/HomeToHome/Components/Pages/Weather.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/fourth semester/VP/HomeToHome/HomeToHome/HomeToHome/HomeToHome/Components/Pages/WorkerHomePage.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXb3JrZXJIb21lUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/fourth semester/VP/HomeToHome/HomeToHome/HomeToHome/HomeToHome/Components/Pages/WorkerRegister.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXb3JrZXJSZWdpc3Rlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/fourth semester/VP/HomeToHome/HomeToHome/HomeToHome/HomeToHome/Components/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/fourth semester/VP/HomeToHome/HomeToHome/HomeToHome/HomeToHome/Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/fourth semester/VP/HomeToHome/HomeToHome/HomeToHome/HomeToHome/Components/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-yig0moicv2
+
+[E:/fourth semester/VP/HomeToHome/HomeToHome/HomeToHome/HomeToHome/Components/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-c8sw9qzbkl

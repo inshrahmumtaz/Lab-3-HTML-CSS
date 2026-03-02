@@ -1,0 +1,273 @@
+﻿@page "/about"
+
+<style>
+    ul.list-unstyled li::before {
+        content: "✔ ";
+        color: black;
+        font-weight: bold;
+    }
+
+    .hero-section .btn {
+        padding: 0.75rem 2rem;
+        font-size: 1.1rem;
+        border-radius: 50px;
+        box-shadow: black;
+    }
+
+    .hero-section p.lead {
+        max-width: 700px;
+        margin: 0 auto;
+    }
+
+    .hero-section p.fs-5 {
+        max-width: 800px;
+        margin: 0 auto;
+        color: #e0e0e0;
+    }
+
+
+    .about-page {
+        font-family: 'Segoe UI', sans-serif;
+    }
+
+    .hero-section {
+        background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+        color: white;
+        padding: 4rem 0;
+        text-align: center;
+    }
+
+    .glowing-text {
+        text-shadow: 0 0 8px #00f7ff, 0 0 12px #00f7ff;
+        animation: glow 2s infinite alternate;
+    }
+
+    @@keyframes glow {
+        from {
+            text-shadow: 0 0 8px #00f7ff, 0 0 12px #00f7ff;
+        }
+
+        to {
+            text-shadow: 0 0 16px #00f7ff, 0 0 24px #00f7ff;
+        }
+    }
+
+    .section {
+        opacity: 0;
+        transform: translateY(20px);
+        animation: fadeInUp 0.8s ease forwards;
+        margin-top: 3rem;
+        padding: 3rem 0;
+    }
+
+        .section:nth-of-type(2) {
+            animation-delay: 0.2s;
+        }
+
+        .section:nth-of-type(3) {
+            animation-delay: 0.4s;
+        }
+
+        .section:nth-of-type(4) {
+            animation-delay: 0.6s;
+        }
+
+        .section:nth-of-type(5) {
+            animation-delay: 0.8s;
+        }
+
+        .section:nth-of-type(6) {
+            animation-delay: 1s;
+        }
+
+    @@keyframes fadeInUp {
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+
+    .card {
+        transition: transform 0.4s ease, box-shadow 0.4s ease;
+        border: none;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    }
+
+        .card:hover {
+            transform: translateY(-10px) scale(1.02);
+            box-shadow: 0 15px 30px rgba(0, 123, 255, 0.4);
+            border: 2px solid #007bff;
+        }
+
+    .card-img-top {
+        transition: box-shadow 0.4s ease;
+        border-top-left-radius: 0.5rem;
+        border-top-right-radius: 0.5rem;
+    }
+
+        .card-img-top:hover {
+            box-shadow: 0 0 15px #007bff;
+        }
+
+    .bg-dark-blue {
+        background-color: #203a43;
+    }
+</style>
+
+<div class="about-page">
+    <!-- Hero Section -->
+    <section class="hero-section section">
+        <div class="container">
+            <h1 class="display-4 fw-bold glowing-text">Welcome to HomeToHome</h1>
+            <p class="lead mt-3">
+                Your one-stop solution for trusted, on-demand home services—where innovation meets convenience.
+            </p>
+            <p class="fs-5 mt-4">
+                From repairs to renovations, we connect you with skilled professionals who care as much about your home as you do.
+            </p>
+            <a href="/ourservices" class="btn btn-primary btn-lg mt-3" style="background-color: black; border-color: black;">Explore Our Services</a>
+
+        </div>
+    </section>
+
+
+    <!-- Mission Section -->
+    <section class="section bg-light text-center">
+        <div class="container">
+            <h2 class="fw-bold">Our Mission</h2>
+            <p class="mt-3 fs-5">
+                At <strong>HomeToHome</strong>, our mission is to <strong>revolutionize the way home services are delivered</strong>—making them more
+                <strong>accessible, transparent, and dependable</strong> for every household. We believe that maintaining a home shouldn't be stressful,
+                and finding skilled professionals should be simple and trustworthy.
+            </p>
+            <div class="row justify-content-center mt-4 text-start">
+                <div class="col-md-10">
+                    <ul class="list-unstyled fs-5">
+                        <li class="mb-3">
+                            <strong>Bridge the gap</strong> between homeowners and trusted service providers through an intelligent, easy-to-use platform.
+                        </li>
+                        <li class="mb-3">
+                            <strong>Ensure safety and trust</strong> by verifying every professional and monitoring service quality consistently.
+                        </li>
+                        <li class="mb-3">
+                            <strong>Empower local talent</strong> by offering fair opportunities and expanding access to skilled work.
+                        </li>
+                        <li class="mb-3">
+                            <strong>Leverage technology</strong> to simplify bookings, manage schedules, and enable real-time communication.
+                        </li>
+                        <li class="mb-3">
+                            <strong>Champion customer satisfaction</strong> by delivering seamless service from booking to feedback.
+                        </li>
+                    </ul>
+                    <p class="fs-5 mt-4 text-center">
+                        With every service request, we’re not just fixing homes—we’re building a
+                        <strong>community of care, trust, and excellence.</strong>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Our Story -->
+    <section class="section">
+        <div class="container">
+            <h2 class="fw-bold text-center">How It All Started</h2>
+            <div class="row mt-4">
+                <div class="col-md-6">
+                    <img src="images/home.jpg" alt="Our Story" class="img-fluid rounded shadow" />
+                </div>
+                <div class="col-md-6 d-flex align-items-center">
+                    <div>
+                        <p class="fs-5">
+                            HomeToHome began with a simple question: <strong>“Why is it so hard to find trustworthy home help?”</strong> After countless experiences with unreliable service providers, our founders knew there had to be a better way.
+                        </p>
+                        <p class="fs-5 mt-3">
+                            Drawing on their backgrounds in technology, design, and community development, the team built HomeToHome as a bridge between homeowners and verified service professionals. Whether you need a last-minute plumber, a reliable electrician, or weekly cleaning, our goal was (and still is) to make your life easier—one trusted service at a time.
+                        </p>
+                        <p class="fs-5 mt-3">
+                            What started as a local solution has quickly grown into a trusted name, helping thousands of homes across the region. And this is just the beginning.
+                        </p>
+                        <p class="fs-5 mt-3">
+                            As the platform evolved, so did our mission. We realized we weren’t just solving a logistical problem—we were rebuilding trust in local services. Each connection on HomeToHome is backed by verified reviews, transparent pricing, and a commitment to excellence.
+                        </p>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Team Section -->
+    <section class="section bg-light">
+        <div class="container">
+            <h2 class="text-center fw-bold">Meet the Team</h2>
+            <div class="row text-center mt-4">
+                @foreach (var member in TeamMembers)
+                {
+                    <div class="col-md-4 mb-4">
+                        <div class="card h-100">
+                            <img src="@member.ImageUrl" class="card-img-top" alt="@member.Name" />
+                            <div class="card-body">
+                                <h5 class="card-title">@member.Name</h5>
+
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </section>
+    <!-- Call to Action -->
+    <section class="section text-center bg-white">
+        <div class="container">
+            <h2 class="fw-bold">Join the Movement</h2>
+            <p class="fs-5 mt-2">We’re always looking for passionate individuals and partners who want to transform the home services industry.</p>
+            <a href="/contact" class="btn btn-primary btn-lg mt-3" style="background-color: black; border-color: black;">Connect</a>
+
+        </div>
+    </section>
+
+    <!-- Achievements Section -->
+    <section class="section text-white bg-dark-blue text-center">
+        <div class="container">
+            <h2 class="fw-bold mb-4">What We've Achieved</h2>
+            <div class="row">
+                <div class="col-md-3">
+                    <h3>10,000+</h3>
+                    <p>Happy Customers</p>
+                </div>
+                <div class="col-md-3">
+                    <h3>98%</h3>
+                    <p>Satisfaction Rate</p>
+                </div>
+                <div class="col-md-3">
+                    <h3>500+</h3>
+                    <p>Verified Service Providers</p>
+                </div>
+                <div class="col-md-3">
+                    <h3>5 Cities</h3>
+                    <p>And Growing Fast</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+</div>
+
+@code {
+    class TeamMember
+    {
+        public string Name { get; set; }
+        public string ImageUrl { get; set; }
+    }
+
+    List<TeamMember> TeamMembers = new List<TeamMember>
+    {
+        new TeamMember { Name = "Arooba Shehzadi",  ImageUrl = "images/team1.jpg" },
+        new TeamMember { Name = "Afia Aziz",  ImageUrl = "images/team2.jpg" },
+        new TeamMember { Name = "Zumer Dhillun",  ImageUrl = "images/team3.jpg" },
+    };
+}

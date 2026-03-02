@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Class Timetable</title>
+
+<style>
+
+:root {
+    --bg: #0f172a;
+    --card: #1e293b;
+    --text: #f1f5f9;
+    --muted: #94a3b8;
+
+    --oop: #3b82f6;
+    --db: #10b981;
+    --web: #f59e0b;
+    --ai: #ef4444;
+    --lab: #8b5cf6;
+    --free: #475569;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+body {
+    background: linear-gradient(135deg, #0f172a, #1e293b);
+    padding: 40px;
+    color: var(--text);
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 32px;
+    letter-spacing: 1px;
+}
+
+.table-container {
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 15px;
+}
+
+th {
+    text-align: center;
+    font-weight: 600;
+    color: var(--muted);
+    padding-bottom: 10px;
+}
+
+td {
+    background: var(--card);
+    padding: 20px;
+    text-align: center;
+    border-radius: 15px;
+    font-weight: 500;
+    transition: 0.3s ease;
+    cursor: pointer;
+}
+
+td:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 15px 25px rgba(0,0,0,0.4);
+}
+
+.oop { border-left: 5px solid var(--oop); }
+.db { border-left: 5px solid var(--db); }
+.web { border-left: 5px solid var(--web); }
+.ai { border-left: 5px solid var(--ai); }
+.lab { border-left: 5px solid var(--lab); }
+.free { border-left: 5px solid var(--free); opacity: 0.6; }
+
+@media(max-width: 900px){
+    body {
+        padding: 20px;
+    }
+
+    td {
+        padding: 15px;
+        font-size: 14px;
+    }
+}
+
+</style>
+</head>
+<body>
+
+<h1>Weekly Class Timetable</h1>
+
+<div class="table-container">
+<table>
+
+<tr>
+    <th>Day</th>
+    <th>8:30 - 10:00</th>
+    <th>10:00 - 11:30</th>
+    <th>12:00 - 1:30</th>
+    <th>2:00 - 3:30</th>
+</tr>
+
+<tr>
+    <td>Monday</td>
+    <td class="oop">OOP</td>
+    <td class="db">Database</td>
+    <td class="web">Web Dev</td>
+    <td class="free">Free</td>
+</tr>
+
+<tr>
+    <td>Tuesday</td>
+    <td class="lab">OOP Lab</td>
+    <td class="ai">AI</td>
+    <td class="free">Free</td>
+    <td class="web">Web Dev</td>
+</tr>
+
+<tr>
+    <td>Wednesday</td>
+    <td class="db">DB Lab</td>
+    <td class="web">Web Dev</td>
+    <td class="ai">AI</td>
+    <td class="free">Free</td>
+</tr>
+
+<tr>
+    <td>Thursday</td>
+    <td class="oop">OOP</td>
+    <td class="lab">Project Lab</td>
+    <td class="web">Web Dev</td>
+    <td class="free">Free</td>
+</tr>
+
+<tr>
+    <td>Friday</td>
+    <td class="ai">Seminar</td>
+    <td class="web">Web Dev</td>
+    <td class="free">Free</td>
+    <td class="oop">Revision</td>
+</tr>
+
+</table>
+</div>
+
+</body>
+</html>

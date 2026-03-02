@@ -1,0 +1,103 @@
+﻿@page "/request-form"
+@using HomeToHome.Models
+@inject RequestService RequestService
+@inject NavigationManager NavigationManager
+@rendermode InteractiveServer
+@using Microsoft.AspNetCore.WebUtilities
+@using System.Net
+
+<div class="container mt-5 fade-in">
+    <div class="row justify-content-center align-items-center shadow-lg rounded-4 overflow-hidden" style="background: #fff;">
+
+
+        <!-- Form Section -->
+        <div class="col-md-6 p-5">
+            <h2 class="text-center mb-4">Request a Service</h2>
+
+            <EditForm Model="@request" OnValidSubmit="HandleSubmit">
+                <DataAnnotationsValidator />
+                <ValidationSummary class="text-danger mb-3" />
+
+                <div class="row">
+                    <h4 class="mt-3">User & Worker Info</h4>
+
+                    <div class="col-md-6 mb-3">
+                        <label>User Email</label>
+                        <InputText @bind-Value="request.UserEmail" class="form-control" />
+                        <ValidationMessage For="@(() => request.UserEmail)" />
+                    </div>
+
+                    <div class="col-md-6 mb-3">
+                        <label>Worker Email</label>
+                        <InputText @bind-Value="request.WorkerEmail" class="form-control" readonly />
+                        <ValidationMessage For="@(() => request.WorkerEmail)" />
+                    </div>
+                </div>
+
+                <div class="row">
+                    <h4 class="mt-4">Service Details</h4>
+
+                    <div class="col-md-6 mb-3">
+                        <label>Service Type</label>
+                        <InputText @bind-Value="request.ServiceType" class="form-control" />
+                        <ValidationMessage For="@(() => request.ServiceType)" />
+                    </div>
+
+                    <div class="col-md-6 mb-3">
+                        <label>Preferred Date</label>
+                        <InputDate @bind-Value="request.PreferredDate" class="form-control" />
+                        <ValidationMessage For="@(() => request.PreferredDate)" />
+                    </div>
+
+                    <div class="col-md-6 mb-3">
+                        <label>Preferred Time</label>
+                        <InputText @bind-Value="request.PreferredTime" class="form-control" placeholder="e.g. 2:00 PM" />
+                        <ValidationMessage For="@(() => request.PreferredTime)" />
+                    </div>
+
+                    <div class="col-md-6 mb-3">
+                        <label>City</label>
+                        <InputText @bind-Value="request.City" class="form-control" />
+                        <ValidationMessage For="@(() => request.City)" />
+                    </div>
+
+                    <div class="col-12 mb-3">
+                        <label>Description</label>
+                        <InputTextArea @bind-Value="request.Description" class="form-control" rows="3" />
+                        <ValidationMessage For="@(() => request.Description)" />
+                    </div>
+
+                    <div class="col-12 mb-3">
+                        <label>Full Address</label>
+                        <InputTextArea @bind-Value="request.FullAddress" class="form-control" rows="3" />
+                        <ValidationMessage For="@(() => request.FullAddress)" />
+                    </div>
+                </div>
+
+                <div class="text-center mt-4">
+                    <button type="submit" class="btn btn-primary btn-lg hover-grow w-100">Register</button>
+                </div>
+            </EditForm>
+        </div>
+    </div>
+</div>
+
+@code {
+    private ServiceRequest request = new ServiceRequest();
+
+    protected override void OnInitialized()
+    {
+        var uri = NavigationManager.ToAbsoluteUri(NavigationManager.Uri);
+        var query = QueryHelpers.ParseQuery(uri.Query);
+        if (query.TryGetValue("workerEmail", out var workerEmail))
+        {
+            request.WorkerEmail = WebUtility.UrlDecode(workerEmail);
+        }
+    }
+
+    private async Task HandleSubmit()
+    {
+        await RequestService.SubmitRequestAsync(request);
+        NavigationManager.NavigateTo("/user-page"); // or a confirmation page
+    }
+}

@@ -1,0 +1,314 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{831CE27B-3067-41E8-B42D-BD74CAC1E41F}|HomeToHome.csproj|e:\\fourth semester\\vp\\hometohome\\hometohome\\hometohome\\hometohome\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{831CE27B-3067-41E8-B42D-BD74CAC1E41F}|HomeToHome.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831CE27B-3067-41E8-B42D-BD74CAC1E41F}|HomeToHome.csproj|e:\\fourth semester\\vp\\hometohome\\hometohome\\hometohome\\hometohome\\components\\pages\\searchworkers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{831CE27B-3067-41E8-B42D-BD74CAC1E41F}|HomeToHome.csproj|solutionrelative:components\\pages\\searchworkers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831CE27B-3067-41E8-B42D-BD74CAC1E41F}|HomeToHome.csproj|e:\\fourth semester\\vp\\hometohome\\hometohome\\hometohome\\hometohome\\components\\pages\\reviewrequestpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{831CE27B-3067-41E8-B42D-BD74CAC1E41F}|HomeToHome.csproj|solutionrelative:components\\pages\\reviewrequestpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831CE27B-3067-41E8-B42D-BD74CAC1E41F}|HomeToHome.csproj|e:\\fourth semester\\vp\\hometohome\\hometohome\\hometohome\\hometohome\\services\\workerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831CE27B-3067-41E8-B42D-BD74CAC1E41F}|HomeToHome.csproj|solutionrelative:services\\workerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831CE27B-3067-41E8-B42D-BD74CAC1E41F}|HomeToHome.csproj|e:\\fourth semester\\vp\\hometohome\\hometohome\\hometohome\\hometohome\\models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831CE27B-3067-41E8-B42D-BD74CAC1E41F}|HomeToHome.csproj|solutionrelative:models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831CE27B-3067-41E8-B42D-BD74CAC1E41F}|HomeToHome.csproj|e:\\fourth semester\\vp\\hometohome\\hometohome\\hometohome\\hometohome\\components\\pages\\userhomepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{831CE27B-3067-41E8-B42D-BD74CAC1E41F}|HomeToHome.csproj|solutionrelative:components\\pages\\userhomepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831CE27B-3067-41E8-B42D-BD74CAC1E41F}|HomeToHome.csproj|e:\\fourth semester\\vp\\hometohome\\hometohome\\hometohome\\hometohome\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831CE27B-3067-41E8-B42D-BD74CAC1E41F}|HomeToHome.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831CE27B-3067-41E8-B42D-BD74CAC1E41F}|HomeToHome.csproj|e:\\fourth semester\\vp\\hometohome\\hometohome\\hometohome\\hometohome\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{831CE27B-3067-41E8-B42D-BD74CAC1E41F}|HomeToHome.csproj|solutionrelative:components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831CE27B-3067-41E8-B42D-BD74CAC1E41F}|HomeToHome.csproj|e:\\fourth semester\\vp\\hometohome\\hometohome\\hometohome\\hometohome\\services\\requestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831CE27B-3067-41E8-B42D-BD74CAC1E41F}|HomeToHome.csproj|solutionrelative:services\\requestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831CE27B-3067-41E8-B42D-BD74CAC1E41F}|HomeToHome.csproj|e:\\fourth semester\\vp\\hometohome\\hometohome\\hometohome\\hometohome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831CE27B-3067-41E8-B42D-BD74CAC1E41F}|HomeToHome.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831CE27B-3067-41E8-B42D-BD74CAC1E41F}|HomeToHome.csproj|e:\\fourth semester\\vp\\hometohome\\hometohome\\hometohome\\hometohome\\components\\pages\\workerregister.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{831CE27B-3067-41E8-B42D-BD74CAC1E41F}|HomeToHome.csproj|solutionrelative:components\\pages\\workerregister.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831CE27B-3067-41E8-B42D-BD74CAC1E41F}|HomeToHome.csproj|e:\\fourth semester\\vp\\hometohome\\hometohome\\hometohome\\hometohome\\components\\pages\\contactus.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{831CE27B-3067-41E8-B42D-BD74CAC1E41F}|HomeToHome.csproj|solutionrelative:components\\pages\\contactus.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831CE27B-3067-41E8-B42D-BD74CAC1E41F}|HomeToHome.csproj|e:\\fourth semester\\vp\\hometohome\\hometohome\\hometohome\\hometohome\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{831CE27B-3067-41E8-B42D-BD74CAC1E41F}|HomeToHome.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831CE27B-3067-41E8-B42D-BD74CAC1E41F}|HomeToHome.csproj|e:\\fourth semester\\vp\\hometohome\\hometohome\\hometohome\\hometohome\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{831CE27B-3067-41E8-B42D-BD74CAC1E41F}|HomeToHome.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831CE27B-3067-41E8-B42D-BD74CAC1E41F}|HomeToHome.csproj|e:\\fourth semester\\vp\\hometohome\\hometohome\\hometohome\\hometohome\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{831CE27B-3067-41E8-B42D-BD74CAC1E41F}|HomeToHome.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831CE27B-3067-41E8-B42D-BD74CAC1E41F}|HomeToHome.csproj|e:\\fourth semester\\vp\\hometohome\\hometohome\\hometohome\\hometohome\\components\\pages\\ourservices.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{831CE27B-3067-41E8-B42D-BD74CAC1E41F}|HomeToHome.csproj|solutionrelative:components\\pages\\ourservices.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831CE27B-3067-41E8-B42D-BD74CAC1E41F}|HomeToHome.csproj|e:\\fourth semester\\vp\\hometohome\\hometohome\\hometohome\\hometohome\\components\\pages\\feedback.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{831CE27B-3067-41E8-B42D-BD74CAC1E41F}|HomeToHome.csproj|solutionrelative:components\\pages\\feedback.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831CE27B-3067-41E8-B42D-BD74CAC1E41F}|HomeToHome.csproj|e:\\fourth semester\\vp\\hometohome\\hometohome\\hometohome\\hometohome\\components\\pages\\aboutus.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{831CE27B-3067-41E8-B42D-BD74CAC1E41F}|HomeToHome.csproj|solutionrelative:components\\pages\\aboutus.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorkerService.cs",
+              "DocumentMoniker": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\Services\\WorkerService.cs",
+              "RelativeDocumentMoniker": "Services\\WorkerService.cs",
+              "ToolTip": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\Services\\WorkerService.cs",
+              "RelativeToolTip": "Services\\WorkerService.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAQwGwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T14:38:43.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:58:41.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.razor",
+              "DocumentMoniker": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\Components\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Login.razor",
+              "ToolTip": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\Components\\Pages\\Login.razor",
+              "RelativeToolTip": "Components\\Pages\\Login.razor",
+              "ViewState": "AgIAALYAAAAAAAAAAAAwwMwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T18:56:17.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReviewRequestPage.razor",
+              "DocumentMoniker": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\Components\\Pages\\ReviewRequestPage.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\ReviewRequestPage.razor",
+              "ToolTip": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\Components\\Pages\\ReviewRequestPage.razor",
+              "RelativeToolTip": "Components\\Pages\\ReviewRequestPage.razor",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwGgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-24T13:44:41.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchWorkers.razor",
+              "DocumentMoniker": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\Components\\Pages\\SearchWorkers.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\SearchWorkers.razor",
+              "ToolTip": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\Components\\Pages\\SearchWorkers.razor",
+              "RelativeToolTip": "Components\\Pages\\SearchWorkers.razor",
+              "ViewState": "AgIAABoBAAAAAAAAAAAAACIBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T16:33:04.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T18:05:02.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\Models\\Worker.cs",
+              "RelativeDocumentMoniker": "Models\\Worker.cs",
+              "ToolTip": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\Models\\Worker.cs",
+              "RelativeToolTip": "Models\\Worker.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswCcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T14:40:36.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserHomePage.razor",
+              "DocumentMoniker": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\Components\\Pages\\UserHomePage.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\UserHomePage.razor",
+              "ToolTip": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\Components\\Pages\\UserHomePage.razor",
+              "RelativeToolTip": "Components\\Pages\\UserHomePage.razor",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAwwIMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T18:33:17.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RequestService.cs",
+              "DocumentMoniker": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\Services\\RequestService.cs",
+              "RelativeDocumentMoniker": "Services\\RequestService.cs",
+              "ToolTip": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\Services\\RequestService.cs",
+              "RelativeToolTip": "Services\\RequestService.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAswIgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:49:26.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:54:09.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WorkerRegister.razor",
+              "DocumentMoniker": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\Components\\Pages\\WorkerRegister.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\WorkerRegister.razor",
+              "ToolTip": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\Components\\Pages\\WorkerRegister.razor",
+              "RelativeToolTip": "Components\\Pages\\WorkerRegister.razor",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAJIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T19:07:25.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
+              "ToolTip": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T18:11:51.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T18:12:41.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Feedback.razor",
+              "DocumentMoniker": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\Components\\Pages\\Feedback.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Feedback.razor",
+              "ToolTip": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\Components\\Pages\\Feedback.razor",
+              "RelativeToolTip": "Components\\Pages\\Feedback.razor",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAiwJ8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T18:10:02.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContactUs.razor",
+              "DocumentMoniker": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\Components\\Pages\\ContactUs.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\ContactUs.razor",
+              "ToolTip": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\Components\\Pages\\ContactUs.razor",
+              "RelativeToolTip": "Components\\Pages\\ContactUs.razor",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T18:09:49.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Home.razor",
+              "DocumentMoniker": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AQIAABsAAAAAAAAAAAAkwC4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T18:10:22.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OurServices.razor",
+              "DocumentMoniker": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\Components\\Pages\\OurServices.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\OurServices.razor",
+              "ToolTip": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\Components\\Pages\\OurServices.razor",
+              "RelativeToolTip": "Components\\Pages\\OurServices.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAK8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T18:11:26.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AboutUs.razor",
+              "DocumentMoniker": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\Components\\Pages\\AboutUs.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\AboutUs.razor",
+              "ToolTip": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\Components\\Pages\\AboutUs.razor",
+              "RelativeToolTip": "Components\\Pages\\AboutUs.razor",
+              "ViewState": "AQIAAO4AAAAAAAAAAAAuwBEBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T18:09:32.765Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

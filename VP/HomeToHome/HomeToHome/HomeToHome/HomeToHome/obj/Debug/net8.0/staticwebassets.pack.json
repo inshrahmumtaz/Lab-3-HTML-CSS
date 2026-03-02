@@ -1,0 +1,145 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HomeToHome.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HomeToHome.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\wwwroot\\images\\Contact.jpg",
+      "PackagePath": "staticwebassets\\images\\Contact.jpg"
+    },
+    {
+      "Id": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\wwwroot\\images\\Feedback.jpg",
+      "PackagePath": "staticwebassets\\images\\Feedback.jpg"
+    },
+    {
+      "Id": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\wwwroot\\images\\ServiceRequest_Image.jpg",
+      "PackagePath": "staticwebassets\\images\\ServiceRequest_Image.jpg"
+    },
+    {
+      "Id": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\wwwroot\\images\\UserRegistrationForm_Image.jpg",
+      "PackagePath": "staticwebassets\\images\\UserRegistrationForm_Image.jpg"
+    },
+    {
+      "Id": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\wwwroot\\images\\WokerRegistrationForm_Image.jpg",
+      "PackagePath": "staticwebassets\\images\\WokerRegistrationForm_Image.jpg"
+    },
+    {
+      "Id": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\wwwroot\\images\\ac-service.jpg",
+      "PackagePath": "staticwebassets\\images\\ac-service.jpg"
+    },
+    {
+      "Id": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\wwwroot\\images\\appliance-repair.jpg",
+      "PackagePath": "staticwebassets\\images\\appliance-repair.jpg"
+    },
+    {
+      "Id": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\wwwroot\\images\\carpentry.jpg",
+      "PackagePath": "staticwebassets\\images\\carpentry.jpg"
+    },
+    {
+      "Id": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\wwwroot\\images\\cctv.jpg",
+      "PackagePath": "staticwebassets\\images\\cctv.jpg"
+    },
+    {
+      "Id": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\wwwroot\\images\\cleaning.jpg",
+      "PackagePath": "staticwebassets\\images\\cleaning.jpg"
+    },
+    {
+      "Id": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\wwwroot\\images\\cooking.jpg",
+      "PackagePath": "staticwebassets\\images\\cooking.jpg"
+    },
+    {
+      "Id": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\wwwroot\\images\\electrical.jpg",
+      "PackagePath": "staticwebassets\\images\\electrical.jpg"
+    },
+    {
+      "Id": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\wwwroot\\images\\furniture-assembly.jpg",
+      "PackagePath": "staticwebassets\\images\\furniture-assembly.jpg"
+    },
+    {
+      "Id": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\wwwroot\\images\\home.jpg",
+      "PackagePath": "staticwebassets\\images\\home.jpg"
+    },
+    {
+      "Id": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\wwwroot\\images\\interior-design.jpg",
+      "PackagePath": "staticwebassets\\images\\interior-design.jpg"
+    },
+    {
+      "Id": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\wwwroot\\images\\laundry.jpg",
+      "PackagePath": "staticwebassets\\images\\laundry.jpg"
+    },
+    {
+      "Id": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\wwwroot\\images\\lawn.jpg",
+      "PackagePath": "staticwebassets\\images\\lawn.jpg"
+    },
+    {
+      "Id": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\wwwroot\\images\\login.jpg",
+      "PackagePath": "staticwebassets\\images\\login.jpg"
+    },
+    {
+      "Id": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\wwwroot\\images\\movers.jpg",
+      "PackagePath": "staticwebassets\\images\\movers.jpg"
+    },
+    {
+      "Id": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\wwwroot\\images\\painting.jpg",
+      "PackagePath": "staticwebassets\\images\\painting.jpg"
+    },
+    {
+      "Id": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\wwwroot\\images\\pest-control.jpg",
+      "PackagePath": "staticwebassets\\images\\pest-control.jpg"
+    },
+    {
+      "Id": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\wwwroot\\images\\plumbing.jpg",
+      "PackagePath": "staticwebassets\\images\\plumbing.jpg"
+    },
+    {
+      "Id": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\wwwroot\\images\\security.jpg",
+      "PackagePath": "staticwebassets\\images\\security.jpg"
+    },
+    {
+      "Id": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\wwwroot\\images\\team1.jpg",
+      "PackagePath": "staticwebassets\\images\\team1.jpg"
+    },
+    {
+      "Id": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\wwwroot\\images\\team2.jpg",
+      "PackagePath": "staticwebassets\\images\\team2.jpg"
+    },
+    {
+      "Id": "E:\\fourth semester\\VP\\HomeToHome\\HomeToHome\\HomeToHome\\HomeToHome\\wwwroot\\images\\team3.jpg",
+      "PackagePath": "staticwebassets\\images\\team3.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HomeToHome.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.HomeToHome.props",
+      "PackagePath": "build\\HomeToHome.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HomeToHome.props",
+      "PackagePath": "buildMultiTargeting\\HomeToHome.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.HomeToHome.props",
+      "PackagePath": "buildTransitive\\HomeToHome.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
